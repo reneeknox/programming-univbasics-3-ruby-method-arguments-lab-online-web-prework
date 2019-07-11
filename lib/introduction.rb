@@ -1,6 +1,6 @@
    #method name    #parameter
-def introduction(name)
+def #introduction(name)
 p "Hi, my name is #{name}."
 end
 
-introduction("Stan")
+#introduction(name)
